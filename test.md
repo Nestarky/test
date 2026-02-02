@@ -260,13 +260,13 @@ $\Large{N(h) = N(h - 1) + N(h - 2) + 1}$
 
 **(T(0) = 1 و T(1) = 1)**
 
-1. $T(h) = 2T(h - 2) + 1$  
+1. $\large{T(h) = 2T(h - 2) + 1}$  
 
-2. $T(h) = T(h - 1) + T(h - 2) + 1$  
+2. $\large{T(h) = T(h - 1) + T(h - 2) + 1}$  
 
-3. $T(h) = 2T(h - 1) + 1$  
+3. $\large{T(h) = 2T(h - 1) + 1}$  
 
-4. $T(h) = T\left(\Bigl\lfloor\frac{h}{2}\Bigr\rfloor\right) + T\left(\Bigl\lceil\frac{h}{2}\Bigr\rceil\right) + 1$
+4. $\large{T(h) = T\left(\Bigl\lfloor\frac{h}{2}\Bigr\rfloor\right) + T\left(\Bigl\lceil\frac{h}{2}\Bigr\rceil\right) + 1}$
 
 </div>
 
