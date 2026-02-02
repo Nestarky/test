@@ -77,7 +77,7 @@ $\Large{N(h) = N(h - 1) + N(h - 2) + 1}$
 <div dir="ltr" align="center">
   
 ```math
-N(h) = \theta\left(\left(\frac{1 + \sqrt{5}}{2}\right) ^ h\right)
+\Large{N(h) = \theta\left(\left(\frac{1 + \sqrt{5}}{2}\right) ^ h\right)}
 ```
 
 </div>
@@ -87,7 +87,7 @@ N(h) = \theta\left(\left(\frac{1 + \sqrt{5}}{2}\right) ^ h\right)
 <div dir="ltr" align="center">
   
 ```math
-h = \theta\left(\log_{\frac{1 + \sqrt{5}}{2}}N(h)\right)
+\Large{h = \theta\left(\log_{\frac{1 + \sqrt{5}}{2}}N(h)\right)}
 ```
 
 </div>
