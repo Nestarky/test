@@ -55,7 +55,7 @@
   
 <h3 id="custom-id-2">
 
-$N(h) = N(h - 1) + N(h - 2) + 1$
+$\Large{N(h) = N(h - 1) + N(h - 2) + 1}$
 
 </h3>
 
