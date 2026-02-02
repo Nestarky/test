@@ -122,7 +122,7 @@ h = \theta\left(\log_{\frac{1 + \sqrt{5}}{2}}N(h)\right)
 
 * **حالت اول**
 
-    - نصیر خرس دارد.
+    
 
 
 </div>
