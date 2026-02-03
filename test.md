@@ -1,7 +1,7 @@
 <div dir="rtl" align="right">
 
 
-# 📚 درخت AVL Tree | AVL
+# 📚 درخت AVL Tree | AVL1
 
 
 <div align="center">
